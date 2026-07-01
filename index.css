@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(226, 226, 226);
+}
+.carousel-item img {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    margin: 30px auto;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(72, 2, 138);
+}
+.tarjetas{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+#conoce{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn{
+background-color: blueviolet;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+}
+.mb-3{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(72, 2, 138);
+
+}
